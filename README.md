@@ -40,27 +40,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-  HOW TO USE PIN CARDS (optional, prettier):
-  Replace the table below with cards like this, using your EXACT repo names:
-
-  <a href="https://github.com/kwalgovind1011/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kwalgovind1011&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
-  </a>
--->
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🧩 **[QuizGens](https://quizgens.tech)** | AI-powered tool that turns documents into quizzes for students | React · Node.js · AI APIs |
-| 🌐 **Spurti** | Open-source platform built for the Vicharanashala internship | React · Node.js · MongoDB |
-| 🏪 **Vitrix** | Web development agency building sites for local businesses | React · Node.js · FastAPI |
-
-> 📌 Add repo links in the first column (e.g. `[QuizGens](https://github.com/kwalgovind1011/<repo>)`) once you want people to jump straight to the code.
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -94,7 +73,7 @@
 <div align="center">
 
 <a href="https://github.com/kwalgovind1011">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwalgovind1011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kwalgovind1011&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </a>
 <a href="https://github.com/kwalgovind1011">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwalgovind1011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
