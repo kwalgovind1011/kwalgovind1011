@@ -91,13 +91,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwalgovind1011&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwalgovind1011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
